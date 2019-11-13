@@ -2,7 +2,7 @@ This is My First File...Welcome to Git...!!!
 
 class MyClass{
 
-	public static void main(){
+	public static void main(String[] args){
 
 		System.out.ptinln("Hello Git...!!!");
 
