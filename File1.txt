@@ -6,6 +6,7 @@ class MyClass{
 
 		System.out.ptinln("Hello Git...!!!");
 		System.out.ptinln("Lets see if this statement gets pulled");
+		System.out.ptinln("Let's see how fetch is different than pull..!!!");
 
 }
 
