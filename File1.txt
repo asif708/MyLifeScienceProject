@@ -2,9 +2,9 @@ This is My First File...Welcome to Git...!!!
 
 class MyClass{
 
-main(){
+	public static void main(){
 
-sysout("Hello Git...!!!");
+		System.out.ptinln("Hello Git...!!!");
 
 }
 
